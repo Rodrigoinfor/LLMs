@@ -1,0 +1,39 @@
+{
+  "Nome": "Cliente 00005",
+  "IDcliente": "00005",
+  "DtOptin": "2025-07-01",
+  "Score": 28,
+  "Nivel": "N1",
+  "Tarefas": [
+    {
+      "nome": "Tarefa 1",
+      "status": "em andamento",
+      "dataAtualizacao": "2025-06-30",
+      "pontos": 0
+    },
+    {
+      "nome": "Tarefa 2",
+      "status": "concluída",
+      "dataAtualizacao": "2025-07-01",
+      "pontos": 13
+    },
+    {
+      "nome": "Tarefa 3",
+      "status": "pendente",
+      "dataAtualizacao": "2025-07-05",
+      "pontos": 0
+    },
+    {
+      "nome": "Tarefa 4",
+      "status": "concluída",
+      "dataAtualizacao": "2025-07-06",
+      "pontos": 15
+    },
+    {
+      "nome": "Tarefa 5",
+      "status": "pendente",
+      "dataAtualizacao": "2025-07-01",
+      "pontos": 0
+    }
+  ]
+}
